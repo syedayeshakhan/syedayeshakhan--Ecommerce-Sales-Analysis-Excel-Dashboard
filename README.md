@@ -1,6 +1,7 @@
 # Excel Dashboard: eCommerce Sales Analysis
 
-This project is an eCommerce Sales Analysis Dashboard built in Excel, showcasing an in-depth analysis of a dataset containing 10,000 rows of eCommerce sales data over four years. The dataset includes information such as Order Date, Ship Date, Segment, and Product Category,Address ,Quantity,Discount,Profit etc.
+This project is an eCommerce Sales Analysis Dashboard built in Excel, showcasing an in-depth analysis of a dataset containing 10,000 rows of eCommerce sales data over four years. The dataset includes information such as Order![Screenshot 2024-09-10 230307](https://github.com/user-attachments/assets/f3f6536f-22a7-4950-a42d-13311d3e1fd7)
+ Date, Ship Date, Segment, and Product Category,Address ,Quantity,Discount,Profit etc.
 ## Key Features:
 ### Pivot Tables: 
 Summarized data on sales, profit, and quantity by year, region, and product category.
